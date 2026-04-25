@@ -13,6 +13,7 @@ Głównym celem projektu było stworzenie naszej pierwszej gry w silniku Unreal 
 ## O co chodzi w grze
 
 Merito Runner to zręcznościowa gra typu endless runner, w której gracz stara się pobić rekord odległości, omijając pułapki poprzez skoki lub ślizgi. Podczas biegu zbieramy również monety, w czym pomaga m.in. specjalny power-up w postaci magnesu przyciągającego kosztowności. Gra oferuje również system wyboru postaci oraz oprawę wizualną z budynkami w tle.
+
 ---
 
 ## Zrzuty ekranu
